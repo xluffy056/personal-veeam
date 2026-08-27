@@ -1,7 +1,7 @@
 ## 📜 PowerShell Scripts
 
 Below are the PowerShell scripts currently available in this repository.
-> **Note:** Review and understand each script before running it in your environment. See Disclaimer below Downloads Table.
+> **Note:** Review and understand each script before running it in your environment. See Disclaimer below this Downloads Table.
 
 | Script | Description | Download |
 | --- | --- | --- |
