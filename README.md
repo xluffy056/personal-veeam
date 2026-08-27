@@ -5,7 +5,7 @@ Below are the PowerShell scripts currently available in this repository.
 | Script | Description | Download |
 | --- | --- | --- |
 | `HostManager.ps1` | A PowerShell GUI for reviewing and removing stale hosts and host components from aVeeam Backup & Replication (VBR) infrastructure. Useful when a server record exists in the configuration database but the consoleoffers no way to remove it — typically a half-registered host that blocks the serverfrom being re-added, with symptoms like "has already been added to the backupinfrastructure" while the object is invisible in Inventory and Backup Infrastructure. | [⬇️ Download](https://github.com/xluffy056/personal-veeam/blob/main/HostManager.ps1)
-) |
+ |
 
 > **Note:** Review and understand each script before running it in your environment.
 
