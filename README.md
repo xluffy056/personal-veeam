@@ -19,32 +19,3 @@ Before using any script or tool from this repository, plan accordingly and ensur
 **Do not use these tools in a production environment without first understanding their purpose, potential impact, and recovery requirements.**
 
 By using any scripts or tools from this repository, you assume responsibility for any changes or consequences resulting from their use.
-
-## 👤 About Me
-
-Hi, I'm **Mike**. As of 2026, I have over **14 years of professional Systems Administration experience**, working across **Windows, Linux, and macOS** environments.
-
-Throughout my career, I have worked extensively with enterprise infrastructure, systems administration, troubleshooting, and problem resolution. I specialize in diagnosing complex technical issues, identifying root causes, and developing practical and effective solutions.
-
-### Veeam Experience
-
-I have extensive hands-on experience with **Veeam versions 10, 11, 12, and 13** and hold a **Veeam Certified Engineer (VMCE)** certification.
-
-My primary areas of Veeam expertise include:
-
-* Veeam Backup & Replication administration
-* Advanced Veeam troubleshooting and problem resolution
-* Root cause analysis
-* Backup and replication infrastructure
-* Configuration and database troubleshooting
-* PowerShell scripting and automation
-* Advanced configuration and administrative tasks
-* Developing tools and scripts to simplify repetitive or complex operations
-
-The scripts and tools in this repository are based on my real-world experience administering and troubleshooting Veeam environments. They are intended to simplify administration, accelerate troubleshooting, and provide solutions for tasks that may otherwise require multiple manual steps.
-
-### 🏅 Veeam Certified Engineer (VMCE)
-
-I hold a **Veeam Certified Engineer (VMCE)** certification.
-
-<img src="./veeam-certified-engineer-vmce-2025.png" alt="Veeam Certified Engineer (VMCE) 2025" width="250">
